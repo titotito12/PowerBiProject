@@ -1,0 +1,56 @@
+DAX formulas used to create key measures and calculated columns.
+
+Dates = CALENDAR(DATE(2020,1,1), DATE(2023,12,31))
+
+Total Customers = DISTINCTCOUNT(Orders[User ID])
+
+Total Orders = COUNT(Orders[User ID])
+
+Total Quantity = SUM(Orders[Product Quantity])
+
+Stores
+Continent = SWITCH(Stores[Country],
+ "UK", " Europe",
+    "DE", " Europe",
+   "US", " North America",
+   // ... add other states as needed
+    "Other" )   
+ 
+
+Country = SWITCH(
+    [country_code], 
+    "GB", " United Kingdom", 
+    "US", "United State", 
+    "DE", "Germany", 
+    // ... add other states as needed
+    "Other"
+)
+
+Geography = [country_region] & "," & [Country]
+
+Orders
+Total Customers = DISTINCTCOUNT(Orders[User ID])
+
+Total Orders = COUNT(Orders[User ID])
+
+Total Quantity = SUM(Orders[Product Quantity])
+
+Dates
+ENDOFMONTH = ENDOFMONTH(Dates[Date])
+ENDOFQUARTER = ENDOFQUARTER(Dates[Date])
+ENDOFYEAR = ENDOFYEAR(Dates[Date])
+Quarter = QUARTER(Dates[Date])
+StartOfTheMonth = STARTOFMONTH(Dates[Date])
+StartOfWeek = Dates[Date] - WEEKDAY(Dates[Date],2) + 1
+StartOfYear = STARTOFYEAR(Dates[Date])
+WeekNumber = WEEKNUM(Dates[Date])
+
+Measures Table
+Profit YTD = TOTALYTD([Total Profit],'Dates'[Date])
+Revenue YTD = TOTALYTD([Total Revenue], Dates[Date])
+Total Profit = SUMX(Orders, Orders[Product Quantity] * (RELATED(Products[sale_price]) - Related(Products[cost_price])))
+Total Revenue = SUMX(Orders, Orders[Product Quantity] * RELATED(Products[sale_price]))
+
+Total Customers = DISTINCTCOUNT(Orders[User ID])
+Total Orders = COUNT(Orders[User ID])
+Total Quantity = SUM(Orders[Product Quantity])
