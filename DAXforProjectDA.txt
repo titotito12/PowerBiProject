@@ -54,3 +54,16 @@ Total Revenue = SUMX(Orders, Orders[Product Quantity] * RELATED(Products[sale_pr
 Total Customers = DISTINCTCOUNT(Orders[User ID])
 Total Orders = COUNT(Orders[User ID])
 Total Quantity = SUM(Orders[Product Quantity])
+Distinct Customer = DISTINCTCOUNT(Orders[User ID])
+
+Previous Quarter Orders = CALCULATE([Total Orders], PREVIOUSQUARTER(Dates[Date]))
+Previous Quarter Profit = CALCULATE([Total Profit], PREVIOUSQUARTER(Dates[Date]))
+Previous Quarter Revenue = CALCULATE([Total Revenue], PREVIOUSQUARTER(Dates[Date]))
+Revenue Per Customer = [Total Revenue] / [Total Customers]
+Target Quarter Orders = [Previous Quarter Orders] * 1.05
+Target Quarter Profit = [Previous Quarter Profit] * 1.05
+Target Quarter Revenue = [Previous Quarter Revenue] * 1.05
+Top 10 Products = CALCULATE([Total Quantity],TOPN(10,Products,Products[category],DESC))
+Top 10 Revenue Generated = CALCULATE([Total Revenue],TOPN(10,Customers,Customers[User UUID],DESC))
+Top 10 Total Revenue For Customers = CALCULATE([Total Revenue],TOPN(10,Customers,Customers[Full Name],DESC))
+Top 10 TotalOrdersFor Customers = CALCULATE([Total Orders],TOPN(10,Orders,Orders[Product Quantity],DESC))
