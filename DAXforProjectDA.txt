@@ -74,3 +74,5 @@ Current Quarter Profit = CALCULATE([Total Profit],QUARTER(Dates[Date]))
 Current Quarter Revenue = CALCULATE([Total Revenue],QUARTER(Dates[Date]))
 Profit Per Order = SUMX(Orders,Orders[Product Quantity] * (RELATED(Products[sale_price]) - Related(Products[cost_price])))
 Profit Per Item = Products[cost_price] - Products[sale_price]
+Profit Goal = CALCULATE([Total Profit] * 1.2, DATEADD(Dates[Date], -1, YEAR))
+Revenue Goal = CALCULATE([Total Revenue] * 1.2, DATEADD(Dates[Date], -1, YEAR))
