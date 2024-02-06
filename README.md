@@ -21,6 +21,8 @@ You will need to use the Database credentials option
 7. The Products table contains information about each product sold by the company, including the product code, name, category, cost price, sale price, and weight.
 
 Creation of  Stores Map Page 
+
+
 On the Stores Map page, add a new map visual. It should take up the majority of the page, just leaving a narrow band at the top of the page for a slicer. Set the style to your satisfaction in the Format pane, and make sure Show Labels is set to On.
 
 Set the controls of your map as follows:
@@ -343,4 +345,38 @@ The final step is to assign the actions on our buttons to the bookmarks. Open th
 
 For each button, set the Type to Bookmark, and select the appropriate bookmark. Finally, test your buttons and slicers. Remember you need to Ctrl-Click to use buttons while designing the report in Power BI Desktop.
 
+Fix the Cross-Filtering
+From the Edit Interactions view in the Format tab of the ribbon, set the following interactions:
 
+
+Executive Summary Page
+
+Product Category bar chart and Top 10 Products table should not filter the card visuals or KPIs
+
+
+2. Customer Detail Page
+
+- Top 20 Customers table should not filter any of the other visuals - Total Customers by Product Donut Chart should not affect the Customers line graph - Total Customers by Country donut chart should cross-filter Total Customers by Product donut Chart
+
+3. Product Detail Page
+
+- Orders vs. Profitability scatter graph should not affect any other visuals - Top 10 Products table should not affect any other visuals
+
+
+  Finish Navigation Bar.
+  From the Edit Interactions view in the Format tab of the ribbon, set the following interactions:
+
+
+Executive Summary Page
+
+Product Category bar chart and Top 10 Products table should not filter the card visuals or KPIs
+
+
+2. Customer Detail Page
+
+- Top 20 Customers table should not filter any of the other visuals - Total Customers by Product Donut Chart should not affect the Customers line graph - Total Customers by Country donut chart should cross-filter Total Customers by Product donut Chart
+
+3. Product Detail Page
+
+- Orders vs. Profitability scatter graph should not affect any other visuals - Top 10 Products table should not affect any other visuals
+- 
