@@ -1,0 +1,591 @@
+store_code,staff_numbers,date_opened,store_type,country_code,region,country_region,lat,long,country,full_region,date_added,sale_price
+BE-18074576,35,00:00.0,Local,GB,Europe,Suffolk,42.35982256,-71.02388342,UK,"Suffolk, UK",,
+GA-CAD01AC2,36,00:00.0,Local,GB,Europe,West Berkshire,51.4020055,-1.3236425,UK,"West Berkshire, UK",,
+HA-974352FE,20,00:00.0,Local,GB,Europe,East Ayrshire,55.5159992,-4.3790696,UK,"East Ayrshire, UK",,
+RU-9F1136B4,32,00:00.0,Local,GB,Europe,Essex,57.01576003,2.646468904,UK,"Essex, UK",,
+DE-585399CF,36,00:00.0,Local,GB,Europe,Greater London,51.49584983,-0.13946256,UK,"Greater London, UK",,
+LA-9B0D9277,39,00:00.0,Local,GB,Europe,Dorset,50.80284347,-2.304418551,UK,"Dorset, UK",,
+NE-1D8B1D0C,33,00:00.0,Local,GB,Europe,West Berkshire,51.37689766,-1.141843484,UK,"West Berkshire, UK",,
+CH-6A561423,34,00:00.0,Local,GB,Europe,Greater Manchester,53.5782863,-2.4300367,UK,"Greater Manchester, UK",,
+PO-38790FAE,25,00:00.0,Local,GB,Europe,Dumfries and Galloway,54.98009378,-3.618959239,UK,"Dumfries and Galloway, UK",,
+BU-251A0E5A,35,00:00.0,Local,GB,Europe,Hampshire,51.05913099,-1.285029249,UK,"Hampshire, UK",,
+SU-0B4C9A5F,28,00:00.0,Local,GB,Europe,Derbyshire,52.8281667,-1.376554958,UK,"Derbyshire, UK",,
+IN-157E1191,29,00:00.0,Local,GB,Europe,Devon,50.3712659,-4.1425658,UK,"Devon, UK",,
+GA-DA8EEA4A,29,00:00.0,Local,GB,Europe,Clackmannanshire,56.1156137,-3.7922423,UK,"Clackmannanshire, UK",,
+LA-2B59A825,25,00:00.0,Local,GB,Europe,Gloucestershire,54.13569605,-2.572741444,UK,"Gloucestershire, UK",,
+PO-47A01287,29,00:00.0,Local,GB,Europe,Radnorshire,52.2715545,-3.310936501,UK,"Radnorshire, UK",,
+LA-D78C5F3F,28,00:00.0,Local,GB,Europe,Merseyside,53.40473732,-4.965456398,UK,"Merseyside, UK",,
+AR-5E72668B,34,00:00.0,Local,GB,Europe,Worcestershire,52.1159559,-2.3258985,UK,"Worcestershire, UK",,
+BE-8C0CF738,26,00:00.0,Local,GB,Europe,West Lothian,55.977167,-3.6006234,UK,"West Lothian, UK",,
+ME-FB62E459,40,00:00.0,Local,GB,Europe,Dumfries and Galloway,54.8433925,-3.87245,UK,"Dumfries and Galloway, UK",,
+LE-63F3D33B,25,00:00.0,Local,GB,Europe,North Yorkshire,57.01576003,2.646468904,UK,"North Yorkshire, UK",,
+HI-BAD4DD1C,24,00:00.0,Local,GB,Europe,Dumfries and Galloway,54.8075928,-3.947978969,UK,"Dumfries and Galloway, UK",,
+CH-7771B336,32,00:00.0,Local,GB,Europe,Devon,49.83908622,-2.033823913,UK,"Devon, UK",,
+EX-2C210EBF,37,00:00.0,Local,GB,Europe,Cheshire,53.1908873,-2.8908955,UK,"Cheshire, UK",,
+CH-164A23FB,29,00:00.0,Local,GB,Europe,Shetland Islands,60.26508964,-1.164777904,UK,"Shetland Islands, UK",,
+TH-D62B06B7,26,00:00.0,Local,GB,Europe,Glasgow City,55.82581716,-4.251938157,UK,"Glasgow City, UK",,
+EA-BE6D0CF8,29,00:00.0,Local,GB,Europe,Antrim,54.87171371,-6.202446602,UK,"Antrim, UK",,
+BE-F4596696,23,00:00.0,Local,GB,Europe,Devon,54.13569605,-2.572741444,UK,"Devon, UK",,
+BU-550D8325,33,00:00.0,Local,GB,Europe,Scottish Borders,55.6511811,-2.252957,UK,"Scottish Borders, UK",,
+NE-01250B4B,30,00:00.0,Local,GB,Europe,Cheshire,53.21171013,-2.53259317,UK,"Cheshire, UK",,
+CL-0FB1065C,28,00:00.0,Local,GB,Europe,Aberdeenshire,57.5052909,-1.7813194,UK,"Aberdeenshire, UK",,
+AR-E8FDEB2B,20,00:00.0,Local,GB,Europe,West Lothian,55.8937901,-3.5420788,UK,"West Lothian, UK",,
+LY-FC3B1157,37,00:00.0,Local,GB,Europe,Montgomeryshire,52.76613487,-2.961136843,UK,"Montgomeryshire, UK",,
+BE-09F94471,34,00:00.0,Local,GB,Europe,Monmouthshire,51.7026571,-3.0327511,UK,"Monmouthshire, UK",,
+WI-56B02C82,35,00:00.0,Local,GB,Europe,Clackmannanshire,56.166395,-3.7513968,UK,"Clackmannanshire, UK",,
+HI-F2784D72,38,00:00.0,Local,GB,Europe,Moray,57.6487891,-3.3148459,UK,"Moray, UK",,
+ME-D9ECD7DF,21,00:00.0,Local,GB,Europe,Hertfordshire,51.7492956,-0.3422526,UK,"Hertfordshire, UK",,
+RU-AE12736B,29,00:00.0,Local,GB,Europe,Anglesey,53.2876375,-4.361255622,UK,"Anglesey, UK",,
+LA-DE474D42,36,00:00.0,Local,GB,Europe,Derbyshire,52.8281667,-1.376554958,UK,"Derbyshire, UK",,
+CH-DCCDE05E,29,00:00.0,Local,GB,Europe,Dumfries and Galloway,54.8433925,-3.87245,UK,"Dumfries and Galloway, UK",,
+CH-FBB32B94,30,00:00.0,Local,GB,Europe,Falkirk,55.99740002,-3.790657538,UK,"Falkirk, UK",,
+SE-8DF6557B,20,00:00.0,Local,GB,Europe,East Ayrshire,55.60421777,-4.509207966,UK,"East Ayrshire, UK",,
+SU-346D5CF2,31,00:00.0,Local,GB,Europe,Fermanagh,54.5843705,-7.6900793,UK,"Fermanagh, UK",,
+WE-605028E4,32,00:00.0,Local,GB,Europe,Devon,50.39179437,-4.119944905,UK,"Devon, UK",,
+WI-37616D0E,37,00:00.0,Local,GB,Europe,Lincolnshire,53.2336301,-0.5392172,UK,"Lincolnshire, UK",,
+BU-19BB50F6,31,00:00.0,Local,GB,Europe,Antrim,55.24052491,-6.511691346,UK,"Antrim, UK",,
+BU-5B54171E,37,00:00.0,Local,GB,Europe,Scottish Borders,55.932446,-2.3628295,UK,"Scottish Borders, UK",,
+CL-DA5365DF,39,00:00.0,Local,GB,Europe,Flintshire,53.2714061,-3.2212991,UK,"Flintshire, UK",,
+SU-5F78B30A,29,00:00.0,Local,GB,Europe,Staffordshire,53.01809074,-2.164561306,UK,"Staffordshire, UK",,
+LY-89B9F675,29,00:00.0,Local,GB,Europe,Fermanagh,54.39698779,-7.650189745,UK,"Fermanagh, UK",,
+VI-9A93E3E2,38,00:00.0,Local,GB,Europe,Flintshire,53.1847774,-3.0266607,UK,"Flintshire, UK",,
+WA-905645E6,36,00:00.0,Local,GB,Europe,Anglesey,53.262963,-4.0920538,UK,"Anglesey, UK",,
+LY-73842BE8,23,00:00.0,Local,GB,Europe,South Ayrshire,55.26942952,-4.687882031,UK,"South Ayrshire, UK",,
+ST-3C93FBF2,26,00:00.0,Local,GB,Europe,Montgomeryshire,52.73453326,-2.902598643,UK,"Montgomeryshire, UK",,
+TH-D94B2E76,30,00:00.0,Local,GB,Europe,Wiltshire,51.17884736,-1.826147295,UK,"Wiltshire, UK",,
+AR-F938FB8E,27,00:00.0,Local,GB,Europe,Merionethshire,52.8271109,-3.800419,UK,"Merionethshire, UK",,
+EX-41AC3888,24,00:00.0,Local,GB,Europe,Nottinghamshire,52.93941397,-1.19878486,UK,"Nottinghamshire, UK",,
+CH-E1344D81,28,00:00.0,Local,GB,Europe,East Ayrshire,55.60421777,-4.509207966,UK,"East Ayrshire, UK",,
+GR-18E26E0C,34,00:00.0,Local,GB,Europe,Nottinghamshire,52.9534193,-1.1496461,UK,"Nottinghamshire, UK",,
+VI-B13ACF87,33,00:00.0,Local,GB,Europe,Antrim,54.87171371,-6.202446602,UK,"Antrim, UK",,
+BU-3FC2A064,25,00:00.0,Local,GB,Europe,Fife,56.1110218,-3.1582296,UK,"Fife, UK",,
+PE-52B1E131,25,00:00.0,Local,GB,Europe,Fermanagh,54.35061393,-7.641560823,UK,"Fermanagh, UK",,
+BE-9A378A7F,22,00:00.0,Local,GB,Europe,Staffordshire,53.01809074,-2.164561306,UK,"Staffordshire, UK",,
+HA-859769AF,30,00:00.0,Local,GB,Europe,Kent,42.96152888,-85.65568911,UK,"Kent, UK",,
+BU-3020DF6C,36,00:00.0,Local,GB,Europe,West Yorkshire,53.74348055,-1.688878061,UK,"West Yorkshire, UK",,
+ST-32641EC1,33,00:00.0,Local,GB,Europe,Wiltshire,51.5613683,-1.7856853,UK,"Wiltshire, UK",,
+GA-2252ED9A,31,00:00.0,Local,GB,Europe,Glasgow City,55.8532394,-4.309196006,UK,"Glasgow City, UK",,
+CO-EAEDFFF3,30,00:00.0,Local,GB,Europe,Dumfries and Galloway,54.8433925,-3.87245,UK,"Dumfries and Galloway, UK",,
+WE-54DE559C,33,00:00.0,Local,GB,Europe,Armagh,54.29905875,-6.55154976,UK,"Armagh, UK",,
+PE-60C328DB,20,00:00.0,Local,GB,Europe,Somerset,54.13569605,-2.572741444,UK,"Somerset, UK",,
+BL-8387506C,33,00:00.0,Local,GB,Europe,Staffordshire,52.85874181,-2.036900435,UK,"Staffordshire, UK",,
+RH-AB6C3782,27,00:00.0,Local,GB,Europe,Derbyshire,53.25629105,-1.401209693,UK,"Derbyshire, UK",,
+AB-316DE4BA,37,00:00.0,Local,GB,Europe,Essex,40.724201,-74.17242791,UK,"Essex, UK",,
+LA-F0652295,33,00:00.0,Local,GB,Europe,Devon,49.83908622,-2.033823913,UK,"Devon, UK",,
+KI-AF3A421C,32,00:00.0,Local,GB,Europe,East Ayrshire,55.60421777,-4.509207966,UK,"East Ayrshire, UK",,
+CH-C9AB9518,40,00:00.0,Local,GB,Europe,Cheshire,53.1908873,-2.8908955,UK,"Cheshire, UK",,
+TH-B6A0AB51,22,00:00.0,Local,GB,Europe,Clackmannanshire,56.11666167,-3.778662383,UK,"Clackmannanshire, UK",,
+CL-DA786EF6,22,00:00.0,Local,GB,Europe,Glamorgan,51.6628422,-3.8039117,UK,"Glamorgan, UK",,
+CL-7BF16887,23,00:00.0,Local,GB,Europe,Monmouthshire,51.7728191,-3.0843833,UK,"Monmouthshire, UK",,
+PO-4AF8FC4D,38,00:00.0,Local,GB,Europe,Staffordshire,53.01809074,-2.164561306,UK,"Staffordshire, UK",,
+SE-68A67454,30,00:00.0,Local,GB,Europe,North Ayrshire,55.7948829,-4.8695014,UK,"North Ayrshire, UK",,
+LE-1438EF01,23,00:00.0,Local,GB,Europe,East Sussex,50.8553888,0.5824703,UK,"East Sussex, UK",,
+SE-09EAF854,28,00:00.0,Local,GB,Europe,Fermanagh,54.5843705,-7.6900793,UK,"Fermanagh, UK",,
+ST-8D1A43F1,34,00:00.0,Local,GB,Europe,East Ayrshire,55.60421777,-4.509207966,UK,"East Ayrshire, UK",,
+GR-6D292223,22,00:00.0,Local,GB,Europe,North Yorkshire,54.13569605,-2.572741444,UK,"North Yorkshire, UK",,
+GR-664E0CB3,38,00:00.0,Local,GB,Europe,Greater Manchester,,,UK,"Greater Manchester, UK",,
+EX-B1AACC7D,37,00:00.0,Local,GB,Europe,Worcestershire,52.22421044,-2.169294073,UK,"Worcestershire, UK",,
+BL-04FD6EF3,28,00:00.0,Local,GB,Europe,Derbyshire,52.9212617,-1.4761491,UK,"Derbyshire, UK",,
+SU-B415327A,23,00:00.0,Local,GB,Europe,Monmouthshire,51.7728191,-3.0843833,UK,"Monmouthshire, UK",,
+DE-504A9BFE,38,00:00.0,Local,GB,Europe,North Yorkshire,54.13569605,-2.572741444,UK,"North Yorkshire, UK",,
+AR-CB0D95D8,20,00:00.0,Local,GB,Europe,Merionethshire,52.8271109,-3.800419,UK,"Merionethshire, UK",,
+BU-0FB4CF87,30,00:00.0,Local,GB,Europe,Staffordshire,52.85874181,-2.036900435,UK,"Staffordshire, UK",,
+NE-2B35DCBD,23,00:00.0,Local,GB,Europe,Tyne and Wear,54.95452042,-1.564554178,UK,"Tyne and Wear, UK",,
+BL-9A86B74D,24,00:00.0,Local,GB,Europe,East Lothian,55.94211982,-2.720845412,UK,"East Lothian, UK",,
+AB-30E0C17F,37,00:00.0,Local,GB,Europe,Kent,42.9632405,-85.6678639,UK,"Kent, UK",,
+CO-308FF73B,39,00:00.0,Local,GB,Europe,Staffordshire,52.6843696,-1.8275286,UK,"Staffordshire, UK",,
+EX-B4EE25D8,38,00:00.0,Local,GB,Europe,Worcestershire,52.1911849,-2.2206585,UK,"Worcestershire, UK",,
+SE-E21DDC72,35,00:00.0,Local,GB,Europe,Nottinghamshire,53.1447678,-1.1973365,UK,"Nottinghamshire, UK",,
+NE-6046DE65,29,00:00.0,Local,GB,Europe,South Yorkshire,53.5527719,-1.4827755,UK,"South Yorkshire, UK",,
+VI-8EBC5471,27,00:00.0,Local,GB,Europe,East Lothian,55.9421202,-3.0538516,UK,"East Lothian, UK",,
+EA-EC2DAADE,36,00:00.0,Local,GB,Europe,Falkirk,56.0189027,-3.7230303,UK,"Falkirk, UK",,
+LO-C4AB23C1,22,00:00.0,Local,GB,Europe,Fermanagh,54.39698779,-7.650189745,UK,"Fermanagh, UK",,
+AB-D665986A,32,00:00.0,Local,GB,Europe,South Ayrshire,55.4628044,-4.6302502,UK,"South Ayrshire, UK",,
+GR-250FBD0C,27,00:00.0,Local,GB,Europe,Cumbria,54.7023545,-3.2765753,UK,"Cumbria, UK",,
+IN-827175EE,36,00:00.0,Local,GB,Europe,Fermanagh,54.5843705,-7.6900793,UK,"Fermanagh, UK",,
+EX-A01E0020,39,00:00.0,Local,GB,Europe,Staffordshire,53.0162014,-2.1812607,UK,"Staffordshire, UK",,
+KI-DD9663C2,28,00:00.0,Local,GB,Europe,Anglesey,53.2876375,-4.361255622,UK,"Anglesey, UK",,
+EX-B3F5CFB1,20,00:00.0,Local,GB,Europe,Armagh,54.3481977,-6.6540432,UK,"Armagh, UK",,
+HI-7B43DCA9,35,00:00.0,Local,GB,Europe,Fife,56.0397097,-3.4194656,UK,"Fife, UK",,
+RU-DA6DCDA7,38,00:00.0,Local,GB,Europe,Fife,56.0713724,-3.4616183,UK,"Fife, UK",,
+IN-E47115F0,32,00:00.0,Local,GB,Europe,Staffordshire,53.01809074,-2.164561306,UK,"Staffordshire, UK",,
+IN-C4060B7D,25,00:00.0,Local,GB,Europe,Derbyshire,52.9212617,-1.4761491,UK,"Derbyshire, UK",,
+BU-B5B6F452,25,00:00.0,Local,GB,Europe,Dumfries and Galloway,54.8433925,-3.87245,UK,"Dumfries and Galloway, UK",,
+SE-531CB6EE,36,00:00.0,Local,GB,Europe,East Sussex,50.8214626,-0.1400561,UK,"East Sussex, UK",,
+LA-0E85631B,29,00:00.0,Local,GB,Europe,Moray,-13.33008399,-72.19674207,UK,"Moray, UK",,
+LO-74DBE049,26,00:00.0,Local,GB,Europe,Fife,56.1110218,-3.1582296,UK,"Fife, UK",,
+LO-EC0C9189,33,00:00.0,Local,GB,Europe,Wiltshire,51.17884736,-1.826147295,UK,"Wiltshire, UK",,
+BE-C5C7E600,39,00:00.0,Local,GB,Europe,Greater Manchester,53.5782863,-2.4300367,UK,"Greater Manchester, UK",,
+RH-450F1A1B,23,00:00.0,Local,GB,Europe,Wiltshire,51.17884736,-1.826147295,UK,"Wiltshire, UK",,
+GR-16C93F4D,29,00:00.0,Local,GB,Europe,Dorset,50.74171199,-1.857875297,UK,"Dorset, UK",,
+BL-190ABD7D,30,00:00.0,Local,GB,Europe,North Lanarkshire,55.8189311,-4.0225794,UK,"North Lanarkshire, UK",,
+HA-10EEDC1D,31,00:00.0,Local,GB,Europe,Cumbria,54.7023545,-3.2765753,UK,"Cumbria, UK",,
+IN-CC1993CF,33,00:00.0,Local,GB,Europe,Staffordshire,52.85874181,-2.036900435,UK,"Staffordshire, UK",,
+LY-D37CAF45,20,00:00.0,Local,GB,Europe,East Renfrewshire,55.7846716,-4.4263461,UK,"East Renfrewshire, UK",,
+CO-3971C69C,33,00:00.0,Local,GB,Europe,Fife,56.1110218,-3.1582296,UK,"Fife, UK",,
+LA-A12C3D8F,38,00:00.0,Local,GB,Europe,Glasgow City,55.82581716,-4.251938157,UK,"Glasgow City, UK",,
+LE-1E8CCAFA,35,00:00.0,Local,GB,Europe,Dumfries and Galloway,55.083333,-3.833333,UK,"Dumfries and Galloway, UK",,
+BE-7D0EF647,32,00:00.0,Local,GB,Europe,Flintshire,53.2714061,-3.2212991,UK,"Flintshire, UK",,
+PE-086FA5EE,32,00:00.0,Local,GB,Europe,Monmouthshire,51.57370708,-2.961890431,UK,"Monmouthshire, UK",,
+AR-EE57502B,25,00:00.0,Local,GB,Europe,Inverclyde,55.9607584,-4.8187835,UK,"Inverclyde, UK",,
+WA-ED4B495E,21,00:00.0,Local,GB,Europe,Fife,56.3403902,-2.7955844,UK,"Fife, UK",,
+WE-FF0F6BA4,20,00:00.0,Local,GB,Europe,Greater Manchester,53.46315382,-2.291402266,UK,"Greater Manchester, UK",,
+EX-2E8DF595,35,00:00.0,Local,GB,Europe,Shetland Islands,59.97275361,-1.349848591,UK,"Shetland Islands, UK",,
+HA-CCBCBF87,24,00:00.0,Local,GB,Europe,Worcestershire,52.3880787,-2.2478582,UK,"Worcestershire, UK",,
+RU-F0666E4B,32,00:00.0,Local,GB,Europe,Cheshire,53.1908873,-2.8908955,UK,"Cheshire, UK",,
+KI-137ED849,40,00:00.0,Local,GB,Europe,Monmouthshire,51.71579617,-2.953397956,UK,"Monmouthshire, UK",,
+CH-01D85C8D,35,00:00.0,Local,GB,Europe,Northumberland,54.9738474,-1.6131572,UK,"Northumberland, UK",,
+VI-68DB8362,29,00:00.0,Local,GB,Europe,Montgomeryshire,52.6990203,-2.838044454,UK,"Montgomeryshire, UK",,
+RH-80D609C9,23,00:00.0,Local,GB,Europe,Somerset,51.14965287,-2.889654132,UK,"Somerset, UK",,
+AB-D5ABF437,22,00:00.0,Local,GB,Europe,Shetland Islands,59.97275361,-1.349848591,UK,"Shetland Islands, UK",,
+BE-B069E157,40,00:00.0,Local,GB,Europe,West Lothian,55.8937901,-3.5420788,UK,"West Lothian, UK",,
+HI-EEA7AE62,33,00:00.0,Local,GB,Europe,Nottinghamshire,53.1447678,-1.1973365,UK,"Nottinghamshire, UK",,
+ST-229D997E,34,00:00.0,Local,DE,Europe,Baden-Württemberg,48.5908946,9.0399498,Germany,"Baden-Württemberg, Germany",,
+SI-ECD52CD9,25,00:00.0,Local,DE,Europe,Schleswig-Holstein,57.01576003,2.646468904,Germany,"Schleswig-Holstein, Germany",,
+HA-39A446E2,38,00:00.0,Local,DE,Europe,Berlin,52.5170365,13.3888599,Germany,"Berlin, Germany",,
+EH-91356030,38,00:00.0,Local,DE,Europe,Baden-Württemberg,48.54827644,9.050624637,Germany,"Baden-Württemberg, Germany",,
+WE-31C8B335,27,00:00.0,Local,DE,Europe,Mecklenburg-Vorpommern,54.0479245,13.0458642,Germany,"Mecklenburg-Vorpommern, Germany",,
+LA-F1042C48,34,00:00.0,Local,DE,Europe,"Saxony
+(Sachsen)",51.07202625,14.53047947,Germany,"Saxony
+(Sachsen), Germany",,
+EH-DB8676C1,28,00:00.0,Local,DE,Europe,Mecklenburg-Vorpommern,53.7735064,12.5755471,Germany,"Mecklenburg-Vorpommern, Germany",,
+AL-91D3A03C,30,00:00.0,Local,DE,Europe,Mecklenburg-Vorpommern,53.92458969,12.6673987,Germany,"Mecklenburg-Vorpommern, Germany",,
+HE-E39F4BC6,31,00:00.0,Local,DE,Europe,Hamburg,53.57359766,9.842408764,Germany,"Hamburg, Germany",,
+BR-BC499EDD,37,00:00.0,Local,DE,Europe,"Thuringia
+(Thüringen)",50.84586232,4.403041271,Germany,"Thuringia
+(Thüringen), Germany",,
+KA-653E783F,36,00:00.0,Local,DE,Europe,Baden-Württemberg,48.8081226,8.9453257,Germany,"Baden-Württemberg, Germany",,
+OS-70B2CD28,36,00:00.0,Local,DE,Europe,"Thuringia
+(Thüringen)",50.84586232,4.403041271,Germany,"Thuringia
+(Thüringen), Germany",,
+EP-105C3FB5,27,00:00.0,Local,DE,Europe,"North Rhine-Westphalia
+(Nordrhein-Westfalen)",51.5347321,6.4245085,Germany,"North Rhine-Westphalia
+(Nordrhein-Westfalen), Germany",,
+BU-44F16401,22,00:00.0,Local,DE,Europe,Bremen,53.11981325,8.780106083,Germany,"Bremen, Germany",,
+EH-DB65F258,21,00:00.0,Local,DE,Europe,"Hesse
+(Hessen)",50.6080651,9.0284647,Germany,"Hesse
+(Hessen), Germany",,
+LO-D54E72B5,20,00:00.0,Local,DE,Europe,"Saxony
+(Sachsen)",52.0089065,11.7003344,Germany,"Saxony
+(Sachsen), Germany",,
+LA-9F489A77,34,00:00.0,Local,DE,Europe,Brandenburg,52.50165977,13.40225949,Germany,"Brandenburg, Germany",,
+ST-4D2E1D55,30,00:00.0,Local,DE,Europe,Schleswig-Holstein,54.1853998,9.8220089,Germany,"Schleswig-Holstein, Germany",,
+WE-DC3933D4,21,00:00.0,Local,DE,Europe,Bremen,53.11981325,8.780106083,Germany,"Bremen, Germany",,
+FR-C04291C3,33,00:00.0,Local,DE,Europe,"Saxony-Anhalt
+(Sachsen-Anhalt)",52.02107111,11.69956645,Germany,"Saxony-Anhalt
+(Sachsen-Anhalt), Germany",,
+ST-B754F535,33,00:00.0,Local,DE,Europe,Hamburg,53.57359766,9.842408764,Germany,"Hamburg, Germany",,
+ST-10F19C97,20,00:00.0,Local,DE,Europe,"Hesse
+(Hessen)",50.6080651,9.0284647,Germany,"Hesse
+(Hessen), Germany",,
+OB-7A4A9012,20,00:00.0,Local,DE,Europe,"Saxony
+(Sachsen)",52.02107111,11.69956645,Germany,"Saxony
+(Sachsen), Germany",,
+ZE-BBF02AEA,31,00:00.0,Local,DE,Europe,Baden-Württemberg,49.32966153,8.571741642,Germany,"Baden-Württemberg, Germany",,
+HE-2908B53E,21,00:00.0,Local,DE,Europe,"Rhineland-Palatinate
+(Rheinland-Pfalz)",49.9531599,7.310646,Germany,"Rhineland-Palatinate
+(Rheinland-Pfalz), Germany",,
+RA-C25EE56A,34,00:00.0,Local,DE,Europe,Berlin,52.50165977,13.40225949,Germany,"Berlin, Germany",,
+EH-BB9AECF5,26,00:00.0,Local,DE,Europe,"North Rhine-Westphalia
+(Nordrhein-Westfalen)",51.48748409,7.566220062,Germany,"North Rhine-Westphalia
+(Nordrhein-Westfalen), Germany",,
+ME-B363FDAA,22,00:00.0,Local,DE,Europe,"Hesse
+(Hessen)",48.68791937,7.051713943,Germany,"Hesse
+(Hessen), Germany",,
+TR-4E1AF636,23,00:00.0,Local,DE,Europe,"Saxony
+(Sachsen)",51.0810138,14.5215522,Germany,"Saxony
+(Sachsen), Germany",,
+DA-D9DC550B,25,00:00.0,Local,DE,Europe,"Hesse
+(Hessen)",50.61108503,9.033462414,Germany,"Hesse
+(Hessen), Germany",,
+LA-347073D1,28,00:00.0,Local,DE,Europe,"Hesse
+(Hessen)",50.61108503,9.033462414,Germany,"Hesse
+(Hessen), Germany",,
+ST-06E21C4A,23,00:00.0,Local,DE,Europe,Baden-Württemberg,48.5908946,9.0399498,Germany,"Baden-Württemberg, Germany",,
+MA-20E6EB37,35,00:00.0,Local,DE,Europe,Hamburg,53.550341,10.000654,Germany,"Hamburg, Germany",,
+BA-8BA66AA0,33,00:00.0,Local,DE,Europe,"Saxony
+(Sachsen)",52.0089065,11.7003344,Germany,"Saxony
+(Sachsen), Germany",,
+DA-ACC520AE,30,00:00.0,Local,DE,Europe,Berlin,52.5015217,13.4025498,Germany,"Berlin, Germany",,
+CH-42F9D8D8,20,00:00.0,Local,DE,Europe,Berlin,52.5170365,13.3888599,Germany,"Berlin, Germany",,
+ZE-EA9C82AA,40,00:00.0,Local,DE,Europe,"Hesse
+(Hessen)",50.6080651,9.0284647,Germany,"Hesse
+(Hessen), Germany",,
+NI-D757F308,27,00:00.0,Local,DE,Europe,Bremen,53.11981325,8.780106083,Germany,"Bremen, Germany",,
+SC-ADA59883,32,00:00.0,Local,DE,Europe,Baden-Württemberg,48.5908946,9.0399498,Germany,"Baden-Württemberg, Germany",,
+GA-846D92B4,28,00:00.0,Local,DE,Europe,"Thuringia
+(Thüringen)",52.51224883,13.38555346,Germany,"Thuringia
+(Thüringen), Germany",,
+AL-9E1A5529,39,00:00.0,Local,DE,Europe,"Bavaria
+(Bayern)",48.9467562,11.4038717,Germany,"Bavaria
+(Bayern), Germany",,
+AS-D26C759B,20,00:00.0,Local,DE,Europe,"North Rhine-Westphalia
+(Nordrhein-Westfalen)",51.5767474,6.5128805,Germany,"North Rhine-Westphalia
+(Nordrhein-Westfalen), Germany",,
+RA-5F41ED85,38,00:00.0,Local,DE,Europe,"Hesse
+(Hessen)",48.68791937,7.051713943,Germany,"Hesse
+(Hessen), Germany",,
+OS-EE0CC48A,28,00:00.0,Local,DE,Europe,Baden-Württemberg,48.7501041,8.8707147,Germany,"Baden-Württemberg, Germany",,
+KI-81D6FEBD,33,00:00.0,Local,DE,Europe,Baden-Württemberg,48.7501041,8.8707147,Germany,"Baden-Württemberg, Germany",,
+SI-3E5F4AD9,20,00:00.0,Local,DE,Europe,"Lower Saxony
+(Niedersachsen)",52.8398531,9.075962,Germany,"Lower Saxony
+(Niedersachsen), Germany",,
+PF-F54C3265,37,00:00.0,Local,DE,Europe,"Rhineland-Palatinate
+(Rheinland-Pfalz)",50.83897599,4.402411249,Germany,"Rhineland-Palatinate
+(Rheinland-Pfalz), Germany",,
+WE-55D0E7FF,34,00:00.0,Local,DE,Europe,"Thuringia
+(Thüringen)",50.9014721,11.0377839,Germany,"Thuringia
+(Thüringen), Germany",,
+VE-1050754E,24,00:00.0,Local,DE,Europe,"North Rhine-Westphalia
+(Nordrhein-Westfalen)",51.7895581,6.0074359,Germany,"North Rhine-Westphalia
+(Nordrhein-Westfalen), Germany",,
+KA-249967D9,31,00:00.0,Local,DE,Europe,"Saxony
+(Sachsen)",51.0810138,14.5215522,Germany,"Saxony
+(Sachsen), Germany",,
+BU-90D457E0,40,00:00.0,Local,DE,Europe,"Saxony
+(Sachsen)",51.07202625,14.53047947,Germany,"Saxony
+(Sachsen), Germany",,
+CH-7638016B,31,00:00.0,Local,DE,Europe,Berlin,52.5170365,13.3888599,Germany,"Berlin, Germany",,
+HO-16A376B0,28,00:00.0,Local,DE,Europe,"Saxony
+(Sachsen)",52.0089065,11.7003344,Germany,"Saxony
+(Sachsen), Germany",,
+AL-FB5FAE9B,22,00:00.0,Local,DE,Europe,"North Rhine-Westphalia
+(Nordrhein-Westfalen)",51.48748409,7.566220062,Germany,"North Rhine-Westphalia
+(Nordrhein-Westfalen), Germany",,
+KO-7E39C57F,33,00:00.0,Local,DE,Europe,Berlin,52.50165977,13.40225949,Germany,"Berlin, Germany",,
+VE-38B76FFE,28,00:00.0,Local,DE,Europe,Hamburg,53.5437641,10.0099133,Germany,"Hamburg, Germany",,
+OS-4BF93680,34,00:00.0,Local,DE,Europe,"Hesse
+(Hessen)",50.3326909,8.761258,Germany,"Hesse
+(Hessen), Germany",,
+HA-FC4E6AFF,32,00:00.0,Local,DE,Europe,Baden-Württemberg,48.54827644,9.050624637,Germany,"Baden-Württemberg, Germany",,
+CH-01DEFD68,36,00:00.0,Local,DE,Europe,"Saxony
+(Sachsen)",51.0810138,14.5215522,Germany,"Saxony
+(Sachsen), Germany",,
+OB-FDC2CF69,36,00:00.0,Local,DE,Europe,Berlin,52.5170365,13.3888599,Germany,"Berlin, Germany",,
+BA-25629F8E,24,00:00.0,Local,DE,Europe,Mecklenburg-Vorpommern,54.0479245,13.0458642,Germany,"Mecklenburg-Vorpommern, Germany",,
+HE-84E62AB9,30,00:00.0,Local,DE,Europe,Brandenburg,52.48263199,13.39451796,Germany,"Brandenburg, Germany",,
+HE-A49D28DF,24,00:00.0,Local,DE,Europe,Bremen,53.11981325,8.780106083,Germany,"Bremen, Germany",,
+CH-99475026,39,00:00.0,Local,DE,Europe,"Bavaria
+(Bayern)",48.9467562,11.4038717,Germany,"Bavaria
+(Bayern), Germany",,
+PF-4FB7B30C,21,00:00.0,Local,DE,Europe,"Bavaria
+(Bayern)",48.9467562,11.4038717,Germany,"Bavaria
+(Bayern), Germany",,
+AL-34ABF27F,37,00:00.0,Local,DE,Europe,"Thuringia
+(Thüringen)",50.84586232,4.403041271,Germany,"Thuringia
+(Thüringen), Germany",,
+GR-61A03D84,25,00:00.0,Local,DE,Europe,"Saxony
+(Sachsen)",52.23612106,12.28551527,Germany,"Saxony
+(Sachsen), Germany",,
+WE-0E145AF9,29,00:00.0,Local,DE,Europe,"Hesse
+(Hessen)",50.3352682,8.7539306,Germany,"Hesse
+(Hessen), Germany",,
+RU-798BB83A,40,00:00.0,Local,DE,Europe,Baden-Württemberg,49.32966153,8.571741642,Germany,"Baden-Württemberg, Germany",,
+BE-DAD46DCD,32,00:00.0,Local,US,America,Ohio,41.5051613,-81.6934446,USA,"Ohio, USA",,
+RE-75445D60,31,00:00.0,Local,DE,Europe,Baden-Württemberg,48.5908946,9.0399498,Germany,"Baden-Württemberg, Germany",,
+BA-C0C7FDBE,28,00:00.0,Local,DE,Europe,"Rhineland-Palatinate
+(Rheinland-Pfalz)",50.83897599,4.402411249,Germany,"Rhineland-Palatinate
+(Rheinland-Pfalz), Germany",,
+LO-F33AC948,31,00:00.0,Local,DE,Europe,"Hesse
+(Hessen)",50.61108503,9.033462414,Germany,"Hesse
+(Hessen), Germany",,
+FR-A86E698A,21,00:00.0,Local,DE,Europe,"Saxony
+(Sachsen)",52.23612106,12.28551527,Germany,"Saxony
+(Sachsen), Germany",,
+EP-6E0918AF,21,00:00.0,Local,DE,Europe,"Thuringia
+(Thüringen)",50.84586232,4.403041271,Germany,"Thuringia
+(Thüringen), Germany",,
+KO-975B107F,37,00:00.0,Local,DE,Europe,"Saxony-Anhalt
+(Sachsen-Anhalt)",52.23612106,12.28551527,Germany,"Saxony-Anhalt
+(Sachsen-Anhalt), Germany",,
+CH-C98AC168,39,00:00.0,Local,DE,Europe,Baden-Württemberg,48.7501041,8.8707147,Germany,"Baden-Württemberg, Germany",,
+BR-662EC74C,35,00:00.0,Local,DE,Europe,"North Rhine-Westphalia
+(Nordrhein-Westfalen)",51.48748409,7.566220062,Germany,"North Rhine-Westphalia
+(Nordrhein-Westfalen), Germany",,
+LA-0772C7B9,92,00:00.0,Super Store,DE,Europe,Berlin,52.50165977,13.40225949,Germany,"Berlin, Germany",,
+WE-1DE82CEE,69,00:00.0,Super Store,GB,Europe,West Berkshire,51.37689766,-1.141843484,UK,"West Berkshire, UK",,
+RU-C603E990,92,00:00.0,Super Store,GB,Europe,Gloucestershire,51.8653705,-2.2458192,UK,"Gloucestershire, UK",,
+BA-898BDED3,109,00:00.0,Super Store,GB,Europe,Kent,57.01576003,2.646468904,UK,"Kent, UK",,
+AB-917B715E,119,00:00.0,Super Store,GB,Europe,North Yorkshire,53.9590555,-1.0815361,UK,"North Yorkshire, UK",,
+EA-7965E06D,96,00:00.0,Super Store,GB,Europe,East Ayrshire,55.48602142,-4.314412308,UK,"East Ayrshire, UK",,
+PE-040B15C3,135,00:00.0,Super Store,GB,Europe,Fermanagh,54.35061393,-7.641560823,UK,"Fermanagh, UK",,
+CO-CB3D8C89,120,00:00.0,Super Store,GB,Europe,Lincolnshire,57.01576003,2.646468904,UK,"Lincolnshire, UK",,
+CH-619E036C,118,00:00.0,Super Store,DE,Europe,"Saxony
+(Sachsen)",52.23612106,12.28551527,Germany,"Saxony
+(Sachsen), Germany",,
+LE-84C48B9F,138,00:00.0,Super Store,GB,Europe,West Lothian,55.8937901,-3.5420788,UK,"West Lothian, UK",,
+SC-4928418D,82,00:00.0,Super Store,DE,Europe,Hamburg,53.5437641,10.0099133,Germany,"Hamburg, Germany",,
+LO-AB6B6DF8,117,00:00.0,Super Store,DE,Europe,Baden-Württemberg,49.32966153,8.571741642,Germany,"Baden-Württemberg, Germany",,
+SO-6D328417,132,00:00.0,Super Store,GB,Europe,Nottinghamshire,52.93941397,-1.19878486,UK,"Nottinghamshire, UK",,
+GA-BA05E5A8,131,00:00.0,Super Store,GB,Europe,Norfolk,36.8968052,-76.2602336,UK,"Norfolk, UK",,
+CH-A44B48E6,130,00:00.0,Super Store,GB,Europe,Somerset,51.14965287,-2.889654132,UK,"Somerset, UK",,
+SU-40E3321A,127,00:00.0,Super Store,GB,Europe,Greater London,51.50076906,-0.109437277,UK,"Greater London, UK",,
+RA-583F0CF9,135,00:00.0,Super Store,DE,Europe,"Hesse
+(Hessen)",50.6080651,9.0284647,Germany,"Hesse
+(Hessen), Germany",,
+CH-7C155EA7,110,00:00.0,Super Store,DE,Europe,Mecklenburg-Vorpommern,53.92458969,12.6673987,Germany,"Mecklenburg-Vorpommern, Germany",,
+LE-14B7245B,102,00:00.0,Super Store,GB,Europe,Lincolnshire,54.13569605,-2.572741444,UK,"Lincolnshire, UK",,
+KA-9D87BC15,69,00:00.0,Super Store,DE,Europe,"Saxony
+(Sachsen)",52.02107111,11.69956645,Germany,"Saxony
+(Sachsen), Germany",,
+BU-784362E0,127,00:00.0,Super Store,GB,Europe,Greater Manchester,53.4794892,-2.2451148,UK,"Greater Manchester, UK",,
+RA-2A22B217,103,00:00.0,Super Store,DE,Europe,Bremen,53.0758196,8.8071646,Germany,"Bremen, Germany",,
+PF-1D7B0646,68,00:00.0,Super Store,DE,Europe,Berlin,52.5170365,13.3888599,Germany,"Berlin, Germany",,
+CL-C183BE4B,99,00:00.0,Super Store,GB,Europe,Anglesey,53.2646974,-4.089718417,UK,"Anglesey, UK",,
+AR-D3FDDD1D,124,00:00.0,Super Store,GB,Europe,Staffordshire,52.6843696,-1.8275286,UK,"Staffordshire, UK",,
+SI-66F97423,74,00:00.0,Super Store,DE,Europe,"Hesse
+(Hessen)",48.68791937,7.051713943,Germany,"Hesse
+(Hessen), Germany",,
+NE-EE2A190D,87,00:00.0,Super Store,GB,Europe,Falkirk,56.0189027,-3.7230303,UK,"Falkirk, UK",,
+CL-361E75EC,112,00:00.0,Super Store,GB,Europe,Hertfordshire,51.7492956,-0.3422526,UK,"Hertfordshire, UK",,
+BE-F9462A80,100,00:00.0,Super Store,GB,Europe,West Yorkshire,53.7944229,-1.7519186,UK,"West Yorkshire, UK",,
+BA-3A37248A,69,00:00.0,Super Store,DE,Europe,"Hesse
+(Hessen)",50.3352682,8.7539306,Germany,"Hesse
+(Hessen), Germany",,
+IN-8A98027C,99,00:00.0,Super Store,GB,Europe,Dumfries and Galloway,55.083333,-3.833333,UK,"Dumfries and Galloway, UK",,
+EH-945D8F25,81,00:00.0,Super Store,DE,Europe,Bremen,53.0758196,8.8071646,Germany,"Bremen, Germany",,
+ME-C1AF27C3,130,00:00.0,Super Store,GB,Europe,Eilean Siar,57.666667,-7.166667,UK,"Eilean Siar, UK",,
+LA-C1E143DE,138,00:00.0,Super Store,GB,Europe,Eilean Siar,57.666667,-7.166667,UK,"Eilean Siar, UK",,
+WA-0E6E657C,76,00:00.0,Super Store,DE,Europe,Hamburg,53.95121784,10.05472363,Germany,"Hamburg, Germany",,
+ST-1DAA85E6,77,00:00.0,Super Store,GB,Europe,Down,,,UK,"Down, UK",,
+WI-1BEEB9CA,137,00:00.0,Super Store,GB,Europe,Dorset,50.80284347,-2.304418551,UK,"Dorset, UK",,
+HA-41E65DD9,119,00:00.0,Super Store,GB,Europe,Tyrone,54.61195472,-7.160255876,UK,"Tyrone, UK",,
+BA-B0933185,85,00:00.0,Super Store,DE,Europe,Bremen,,,Germany,"Bremen, Germany",,
+WE-298C66F0,111,00:00.0,Super Store,GB,Europe,Suffolk,42.35899538,-71.02351552,UK,"Suffolk, UK",,
+OB-B57D2016,82,00:00.0,Super Store,DE,Europe,Bremen,53.0758196,8.8071646,Germany,"Bremen, Germany",,
+HO-85D2BA5B,82,00:00.0,Super Store,DE,Europe,Hamburg,53.54503132,10.02360294,Germany,"Hamburg, Germany",,
+VE-EE7A1F48,118,00:00.0,Super Store,DE,Europe,"Hesse
+(Hessen)",50.3326909,8.761258,Germany,"Hesse
+(Hessen), Germany",,
+RU-514020AC,80,00:00.0,Super Store,GB,Europe,Shetland Islands,59.97275361,-1.349848591,UK,"Shetland Islands, UK",,
+WI-5CDC1053,101,00:00.0,Super Store,DE,Europe,Bremen,53.11981325,8.780106083,Germany,"Bremen, Germany",,
+GR-84BD26D4,131,00:00.0,Super Store,GB,Europe,Tyrone,54.5039088,-6.7703622,UK,"Tyrone, UK",,
+SU-203C8474,93,00:00.0,Super Store,GB,Europe,Tyne and Wear,54.13569605,-2.572741444,UK,"Tyne and Wear, UK",,
+LA-7A9AA65C,129,00:00.0,Super Store,DE,Europe,"Bavaria
+(Bayern)",48.15321292,11.54735858,Germany,"Bavaria
+(Bayern), Germany",,
+RA-412FE889,72,00:00.0,Super Store,DE,Europe,"North Rhine-Westphalia
+(Nordrhein-Westfalen)",51.5767474,6.5128805,Germany,"North Rhine-Westphalia
+(Nordrhein-Westfalen), Germany",,
+BE-BC3E4F9A,111,00:00.0,Super Store,GB,Europe,North Ayrshire,55.6400848,-4.814877,UK,"North Ayrshire, UK",,
+HI-D59BBEEC,114,00:00.0,Super Store,GB,Europe,Down,,,UK,"Down, UK",,
+GR-30543E4C,137,00:00.0,Super Store,GB,Europe,Flintshire,53.2492828,-3.1345262,UK,"Flintshire, UK",,
+WA-0A35C594,132,00:00.0,Super Store,GB,Europe,East Ayrshire,55.6100589,-4.4964652,UK,"East Ayrshire, UK",,
+BA-99F54BD0,113,00:00.0,Super Store,GB,Europe,Monmouthshire,51.71579617,-2.953397956,UK,"Monmouthshire, UK",,
+GI-718674C0,78,00:00.0,Super Store,DE,Europe,Baden-Württemberg,48.54827644,9.050624637,Germany,"Baden-Württemberg, Germany",,
+GA-D570038A,137,00:00.0,Super Store,GB,Europe,East Ayrshire,55.5159992,-4.3790696,UK,"East Ayrshire, UK",,
+TH-142AE777,94,00:00.0,Super Store,GB,Europe,Kent,42.9632405,-85.6678639,UK,"Kent, UK",,
+BU-834779E4,93,00:00.0,Super Store,GB,Europe,East Sussex,54.13569605,-2.572741444,UK,"East Sussex, UK",,
+HO-CE40B554,134,00:00.0,Super Store,DE,Europe,"Thuringia
+(Thüringen)",50.84586232,4.403041271,Germany,"Thuringia
+(Thüringen), Germany",,
+LO-8E1CA9E3,96,00:00.0,Super Store,GB,Europe,Kent,51.2800275,1.0802533,UK,"Kent, UK",,
+OB-4B85CD4E,108,00:00.0,Super Store,DE,Europe,"Hesse
+(Hessen)",48.68791937,7.051713943,Germany,"Hesse
+(Hessen), Germany",,
+WA-58021322,80,00:00.0,Super Store,GB,Europe,Cheshire,54.13569605,-2.572741444,UK,"Cheshire, UK",,
+SO-B5B9CB3B,97,00:00.0,Super Store,GB,Europe,Tyrone,54.61195472,-7.160255876,UK,"Tyrone, UK",,
+WE-A6C131B0,113,00:00.0,Super Store,DE,Europe,Baden-Württemberg,48.5908946,9.0399498,Germany,"Baden-Württemberg, Germany",,
+SU-EFC31DF9,96,00:00.0,Super Store,GB,Europe,Antrim,54.5964411,-5.9302761,UK,"Antrim, UK",,
+TH-B8F42840,70,00:00.0,Super Store,GB,Europe,Derbyshire,52.8281667,-1.376554958,UK,"Derbyshire, UK",,
+AB-FCFAB1A9,106,00:00.0,Super Store,GB,Europe,Greater Manchester,53.4794892,-2.2451148,UK,"Greater Manchester, UK",,
+PO-E636D18D,73,00:00.0,Super Store,GB,Europe,Flintshire,53.2714061,-3.2212991,UK,"Flintshire, UK",,
+KI-107167CD,119,00:00.0,Super Store,GB,Europe,Nottinghamshire,53.1447678,-1.1973365,UK,"Nottinghamshire, UK",,
+EX-FA379F57,129,00:00.0,Super Store,GB,Europe,Somerset,51.14965287,-2.889654132,UK,"Somerset, UK",,
+EX-82831D93,107,00:00.0,Super Store,GB,Europe,East Sussex,54.13569605,-2.572741444,UK,"East Sussex, UK",,
+AR-ADA61B10,134,00:00.0,Super Store,GB,Europe,East Sussex,50.77611777,0.266220592,UK,"East Sussex, UK",,
+WA-A34BF06C,130,00:00.0,Super Store,GB,Europe,Down,,,UK,"Down, UK",,
+BE-6F48991F,77,00:00.0,Super Store,GB,Europe,West Lothian,55.8937901,-3.5420788,UK,"West Lothian, UK",,
+DE-12392F66,139,00:00.0,Super Store,GB,Europe,West Lothian,55.977167,-3.6006234,UK,"West Lothian, UK",,
+WA-A41DA979,98,00:00.0,Super Store,GB,Europe,Dumfries and Galloway,54.8075928,-3.947978969,UK,"Dumfries and Galloway, UK",,
+CO-473A9FBB,94,00:00.0,Super Store,GB,Europe,Tyne and Wear,54.95452042,-1.564554178,UK,"Tyne and Wear, UK",,
+KI-78096E8C,61,00:00.0,Super Store,DE,Europe,Bremen,53.5522264,8.5865509,Germany,"Bremen, Germany",,
+EA-77ECA680,8,00:00.0,Mall Kiosk,GB,Europe,West Berkshire,51.39458591,-1.325850646,UK,"West Berkshire, UK",,
+EA-24B31935,78,00:00.0,Outlet,GB,Europe,Tyne and Wear,54.13569605,-2.572741444,UK,"Tyne and Wear, UK",,
+ME-31958763,90,00:00.0,Outlet,GB,Europe,Shetland Islands,59.97275361,-1.349848591,UK,"Shetland Islands, UK",,
+CL-5C7C3198,50,00:00.0,Outlet,GB,Europe,Suffolk,42.32940885,-71.01094863,UK,"Suffolk, UK",,
+WEB-1388012W,325,00:00.0,Web Portal,GB,Europe,Surrey,51.24811058,-0.420588708,UK,"Surrey, UK",,
+KI-A53AF10A,6,00:00.0,Mall Kiosk,GB,Europe,Lincolnshire,53.5677371,-0.0736289,UK,"Lincolnshire, UK",,
+RU-1994A94D,83,00:00.0,Outlet,GB,Europe,Moray,57.7871935,-3.6312684,UK,"Moray, UK",,
+RU-9DF20437,7,00:00.0,Mall Kiosk,GB,Europe,Fife,56.3403902,-2.7955844,UK,"Fife, UK",,
+WA-34998EB8,7,00:00.0,Mall Kiosk,DE,Europe,Mecklenburg-Vorpommern,54.0479245,13.0458642,Germany,"Mecklenburg-Vorpommern, Germany",,
+LA-6AAC1779,70,00:00.0,Outlet,DE,Europe,"Thuringia
+(Thüringen)",52.51224883,13.38555346,Germany,"Thuringia
+(Thüringen), Germany",,
+WE-5B0343D9,51,00:00.0,Outlet,DE,Europe,"Saxony
+(Sachsen)",51.0810138,14.5215522,Germany,"Saxony
+(Sachsen), Germany",,
+EX-9ED6711E,4,00:00.0,Mall Kiosk,GB,Europe,Perth and Kinross,56.3957679,-3.4335463,UK,"Perth and Kinross, UK",,
+AR-2D9D5CD3,5,00:00.0,Mall Kiosk,GB,Europe,Tyrone,54.5992486,-7.3029907,UK,"Tyrone, UK",,
+ST-119B11EA,81,00:00.0,Outlet,GB,Europe,Antrim,54.87171371,-6.202446602,UK,"Antrim, UK",,
+BU-89E4DEC5,7,00:00.0,Mall Kiosk,DE,Europe,"Thuringia
+(Thüringen)",50.9014721,11.0377839,Germany,"Thuringia
+(Thüringen), Germany",,
+VE-B81F9500,4,00:00.0,Mall Kiosk,DE,Europe,"Saxony
+(Sachsen)",52.02107111,11.69956645,Germany,"Saxony
+(Sachsen), Germany",,
+PF-D90B564A,6,00:00.0,Mall Kiosk,DE,Europe,Berlin,52.50165977,13.40225949,Germany,"Berlin, Germany",,
+BE-028A2748,85,00:00.0,Outlet,DE,Europe,"Thuringia
+(Thüringen)",52.51224883,13.38555346,Germany,"Thuringia
+(Thüringen), Germany",,
+SO-6D546AD2,41,00:00.0,Outlet,GB,Europe,Monmouthshire,51.7728191,-3.0843833,UK,"Monmouthshire, UK",,
+HI-BED70096,57,00:00.0,Outlet,GB,Europe,Staffordshire,52.6843696,-1.8275286,UK,"Staffordshire, UK",,
+WA-FF3389AF,4,00:00.0,Mall Kiosk,GB,Europe,Scottish Borders,55.932446,-2.3628295,UK,"Scottish Borders, UK",,
+CH-7E92F288,7,00:00.0,Mall Kiosk,GB,Europe,Tyne and Wear,55.00770958,-1.657845753,UK,"Tyne and Wear, UK",,
+GA-400CC35C,7,00:00.0,Mall Kiosk,GB,Europe,Suffolk,42.35899538,-71.02351552,UK,"Suffolk, UK",,
+AR-0C5116E4,82,00:00.0,Outlet,GB,Europe,Merionethshire,52.8271109,-3.800419,UK,"Merionethshire, UK",,
+VI-BCBBC21A,90,00:00.0,Outlet,GB,Europe,West Lothian,55.97870361,-3.600847955,UK,"West Lothian, UK",,
+RH-F3E200B7,6,00:00.0,Mall Kiosk,GB,Europe,Moray,57.7871935,-3.6312684,UK,"Moray, UK",,
+MA-316BDC6E,83,00:00.0,Outlet,DE,Europe,Baden-Württemberg,48.54827644,9.050624637,Germany,"Baden-Württemberg, Germany",,
+MA-0D207813,66,00:00.0,Outlet,DE,Europe,"Hesse
+(Hessen)",50.3352682,8.7539306,Germany,"Hesse
+(Hessen), Germany",,
+PO-99029708,51,00:00.0,Outlet,GB,Europe,Monmouthshire,51.5882332,-2.9974967,UK,"Monmouthshire, UK",,
+ME-9940FF73,7,00:00.0,Mall Kiosk,DE,Europe,"Hesse
+(Hessen)",50.3326909,8.761258,Germany,"Hesse
+(Hessen), Germany",,
+PF-BADFAEDC,8,00:00.0,Mall Kiosk,DE,Europe,Baden-Württemberg,48.8081226,8.9453257,Germany,"Baden-Württemberg, Germany",,
+SE-596EAA50,6,00:00.0,Mall Kiosk,GB,Europe,Somerset,51.3802468,-2.366740577,UK,"Somerset, UK",,
+HA-1BAE9B71,7,00:00.0,Mall Kiosk,GB,Europe,West Lothian,55.88518079,-3.573762124,UK,"West Lothian, UK",,
+CH-6D105C69,5,00:00.0,Mall Kiosk,DE,Europe,"Saxony-Anhalt
+(Sachsen-Anhalt)",52.5218468,13.379565,Germany,"Saxony-Anhalt
+(Sachsen-Anhalt), Germany",,
+HA-B6953307,8,00:00.0,Mall Kiosk,DE,Europe,Baden-Württemberg,49.32966153,8.571741642,Germany,"Baden-Württemberg, Germany",,
+HI-F27C7A84,71,00:00.0,Outlet,GB,Europe,East Sussex,54.13569605,-2.572741444,UK,"East Sussex, UK",,
+LO-3DD01CA8,6,00:00.0,Mall Kiosk,GB,Europe,Caernarvonshire,53.29060822,-3.843583817,UK,"Caernarvonshire, UK",,
+LA-BC0455E1,7,00:00.0,Mall Kiosk,DE,Europe,"North Rhine-Westphalia
+(Nordrhein-Westfalen)",51.5767474,6.5128805,Germany,"North Rhine-Westphalia
+(Nordrhein-Westfalen), Germany",,
+FR-91D11D69,51,00:00.0,Outlet,DE,Europe,Baden-Württemberg,49.32966153,8.571741642,Germany,"Baden-Württemberg, Germany",,
+PO-3A1A12CD,58,00:00.0,Outlet,GB,Europe,North Ayrshire,55.6400848,-4.814877,UK,"North Ayrshire, UK",,
+EA-6B5D31D8,56,00:00.0,Outlet,GB,Europe,Derbyshire,52.9212617,-1.4761491,UK,"Derbyshire, UK",,
+BE-2DE7E6FD,72,00:00.0,Outlet,GB,Europe,Glasgow City,55.82581716,-4.251938157,UK,"Glasgow City, UK",,
+HO-978C59DC,87,00:00.0,Outlet,DE,Europe,Baden-Württemberg,48.54827644,9.050624637,Germany,"Baden-Württemberg, Germany",,
+WI-293A03C1,70,00:00.0,Outlet,GB,Europe,Somerset,39.97284297,-79.02823799,UK,"Somerset, UK",,
+EX-A3F2DB7C,6,00:00.0,Mall Kiosk,GB,Europe,Merseyside,53.43083784,-2.960988,UK,"Merseyside, UK",,
+HI-FD1137FA,7,00:00.0,Mall Kiosk,GB,Europe,Nottinghamshire,53.1447678,-1.1973365,UK,"Nottinghamshire, UK",,
+AB-4ABD6D51,6,00:00.0,Mall Kiosk,GB,Europe,Monmouthshire,51.5882332,-2.9974967,UK,"Monmouthshire, UK",,
+BR-FB62A5BA,4,00:00.0,Mall Kiosk,GB,Europe,Radnorshire,52.2715545,-3.310936501,UK,"Radnorshire, UK",,
+WE-41EFA2D6,60,00:00.0,Outlet,GB,Europe,South Yorkshire,53.3806626,-1.4702278,UK,"South Yorkshire, UK",,
+CH-8A74708A,52,00:00.0,Outlet,GB,Europe,Monmouthshire,51.71579617,-2.953397956,UK,"Monmouthshire, UK",,
+AB-337AEBA7,63,00:00.0,Outlet,GB,Europe,Dorset,49.83908622,-2.033823913,UK,"Dorset, UK",,
+PE-8BF5FE22,70,00:00.0,Outlet,GB,Europe,Fermanagh,54.39698779,-7.650189745,UK,"Fermanagh, UK",,
+ME-6529390A,78,00:00.0,Outlet,DE,Europe,"Hesse
+(Hessen)",50.3326909,8.761258,Germany,"Hesse
+(Hessen), Germany",,
+LA-55069B69,6,00:00.0,Mall Kiosk,DE,Europe,"Hesse
+(Hessen)",50.3352682,8.7539306,Germany,"Hesse
+(Hessen), Germany",,
+CH-DEF208AA,8,00:00.0,Mall Kiosk,GB,Europe,Wiltshire,51.5613683,-1.7856853,UK,"Wiltshire, UK",,
+GR-911A7DFC,66,00:00.0,Outlet,GB,Europe,Orkney Islands,-60.63166056,-45.42753966,UK,"Orkney Islands, UK",,
+BL-D6CF153F,4,00:00.0,Mall Kiosk,GB,Europe,West Berkshire,51.39443408,-1.298572486,UK,"West Berkshire, UK",,
+AR-2284FD32,4,00:00.0,Mall Kiosk,GB,Europe,Merionethshire,52.8271109,-3.800419,UK,"Merionethshire, UK",,
+GR-63F021A1,6,00:00.0,Mall Kiosk,DE,Europe,"Saxony-Anhalt
+(Sachsen-Anhalt)",52.5218468,13.379565,Germany,"Saxony-Anhalt
+(Sachsen-Anhalt), Germany",,
+EA-EB4F2E1B,68,00:00.0,Outlet,GB,Europe,Antrim,54.5964411,-5.9302761,UK,"Antrim, UK",,
+NI-AB0FECD7,90,00:00.0,Outlet,DE,Europe,"Thuringia
+(Thüringen)",52.51224883,13.38555346,Germany,"Thuringia
+(Thüringen), Germany",,
+SE-C44E6951,40,00:00.0,Outlet,GB,Europe,Eilean Siar,57.666667,-7.166667,UK,"Eilean Siar, UK",,
+SU-163D2755,77,00:00.0,Outlet,GB,Europe,Greater Manchester,53.46315382,-2.291402266,UK,"Greater Manchester, UK",,
+SU-ABF4F9A1,7,00:00.0,Mall Kiosk,GB,Europe,Shetland Islands,59.97275361,-1.349848591,UK,"Shetland Islands, UK",,
+CO-9A576872,84,00:00.0,Outlet,GB,Europe,East Sussex,50.8553888,0.5824703,UK,"East Sussex, UK",,
+AL-EE8984F0,5,00:00.0,Mall Kiosk,DE,Europe,Baden-Württemberg,48.5908946,9.0399498,Germany,"Baden-Württemberg, Germany",,
+ST-D14ED89D,59,00:00.0,Outlet,DE,Europe,Baden-Württemberg,48.54827644,9.050624637,Germany,"Baden-Württemberg, Germany",,
+BU-79F72A64,4,00:00.0,Mall Kiosk,GB,Europe,Cardiganshire,52.25666942,-4.071759967,UK,"Cardiganshire, UK",,
+EP-E66BE479,6,00:00.0,Mall Kiosk,DE,Europe,Hamburg,53.550341,10.000654,Germany,"Hamburg, Germany",,
+BR-B7C294A7,77,00:00.0,Outlet,DE,Europe,Baden-Württemberg,48.8081226,8.9453257,Germany,"Baden-Württemberg, Germany",,
+LA-6D1FE061,89,00:00.0,Outlet,DE,Europe,Mecklenburg-Vorpommern,53.92458969,12.6673987,Germany,"Mecklenburg-Vorpommern, Germany",,
+BR-09D8DE69,5,00:00.0,Mall Kiosk,DE,Europe,"Saxony-Anhalt
+(Sachsen-Anhalt)",52.23612106,12.28551527,Germany,"Saxony-Anhalt
+(Sachsen-Anhalt), Germany",,
+WE-69BFEA46,53,00:00.0,Outlet,DE,Europe,"Saxony
+(Sachsen)",52.23612106,12.28551527,Germany,"Saxony
+(Sachsen), Germany",,
+RU-9D16C525,4,00:00.0,Mall Kiosk,GB,Europe,West Berkshire,51.39443408,-1.298572486,UK,"West Berkshire, UK",,
+CH-6ADEBD99,7,00:00.0,Mall Kiosk,GB,Europe,East Sussex,50.8553888,0.5824703,UK,"East Sussex, UK",,
+ST-76D54DCB,59,00:00.0,Outlet,GB,Europe,West Midlands,52.5847651,-2.127567,UK,"West Midlands, UK",,
+PE-F9CF2B74,7,00:00.0,Mall Kiosk,GB,Europe,Nottinghamshire,52.93990095,-1.132938435,UK,"Nottinghamshire, UK",,
+AS-373D10B2,51,00:00.0,Outlet,DE,Europe,Berlin,52.5170365,13.3888599,Germany,"Berlin, Germany",,
+AB-D04AA29C,68,00:00.0,Outlet,GB,Europe,Fermanagh,54.35061393,-7.641560823,UK,"Fermanagh, UK",,
+HE-8818F573,7,00:00.0,Mall Kiosk,DE,Europe,Hamburg,53.54503132,10.02360294,Germany,"Hamburg, Germany",,
+NE-D1A20330,5,00:00.0,Mall Kiosk,DE,Europe,"Bavaria
+(Bayern)",48.15321292,11.54735858,Germany,"Bavaria
+(Bayern), Germany",,
+LO-ED733BA2,48,00:00.0,Outlet,GB,Europe,Worcestershire,52.1159559,-2.3258985,UK,"Worcestershire, UK",,
+PE-78E2B585,5,00:00.0,Mall Kiosk,GB,Europe,Dumfries and Galloway,54.8433925,-3.87245,UK,"Dumfries and Galloway, UK",,
+BU-FB96B095,86,00:00.0,Outlet,GB,Europe,West Lothian,55.88518079,-3.573762124,UK,"West Lothian, UK",,
+BA-41B2EB4B,8,00:00.0,Mall Kiosk,GB,Europe,Kent,54.13569605,-2.572741444,UK,"Kent, UK",,
+WI-1EA140B1,68,00:00.0,Outlet,GB,Europe,Dumfries and Galloway,54.8433925,-3.87245,UK,"Dumfries and Galloway, UK",,
+KA-FA7ED3B8,31,00:00.0,Local,US,America,New Mexico,34.05440964,-106.9064273,USA,"New Mexico, USA",,
+CR-792AA8BB,138,00:00.0,Super Store,US,America,New Mexico,34.5708167,-105.993007,USA,"New Mexico, USA",,
+LY-4C3D5D6C,36,00:00.0,Local,GB,eeEurope,Lincolnshire,53.18706803,-0.278952628,UK,"Lincolnshire, UK",,
+BO-17E7B6CE,75,00:00.0,Super Store,US,America,Florida,27.7567667,-81.4639835,USA,"Florida, USA",,
+NE-E50207AD,67,00:00.0,Super Store,GB,eeEurope,Staffordshire,52.68100104,-1.829436026,UK,"Staffordshire, UK",,
+NE-374D3983,20,00:00.0,Local,GB,eeEurope,Angus,31.99781626,-96.42703606,UK,"Angus, UK",,
+SU-95D20AE9,30,00:00.0,Local,US,America,Idaho,44.59824783,-110.5471843,USA,"Idaho, USA",,
+MA-F0E23355,8,00:00.0,Mall Kiosk,US,America,Minnesota,45.9896587,-94.6113288,USA,"Minnesota, USA",,
+VE-93DA8430,22,00:00.0,Local,US,eeAmerica,Michigan,42.96152888,-85.65568911,USA,"Michigan, USA",,
+PO-EB96293A,36,00:00.0,Local,US,America,Alaska,60.0000001,-175,USA,"Alaska, USA",,
+MO-E8CFF8FE,40,00:00.0,Local,US,America,South Dakota,42.49604771,-96.3900946,USA,"South Dakota, USA",,
+SC-8724E112,118,00:00.0,Super Store,DE,eeEurope,"Thuringia
+(Thüringen)",50.9014721,11.0377839,Germany,"Thuringia
+(Thüringen), Germany",,
+SE-F428A035,34,00:00.0,Local,US,America,Georgia,33.76268453,-84.42278836,USA,"Georgia, USA",,
+MI-20EE1BFA,20,00:00.0,Local,US,America,Nebraska,41.2587459,-95.9383758,USA,"Nebraska, USA",,
+NE-C83B8B22,21,00:00.0,Local,US,America,Iowa,41.65589437,-91.53033292,USA,"Iowa, USA",,
+LA-77BE2ADA,37,00:00.0,Local,GB,eeEurope,Hertfordshire,51.6553875,-0.3957425,UK,"Hertfordshire, UK",,
+WA-F4396DF8,29,00:00.0,Local,US,America,West Virginia,38.4758406,-80.8408415,USA,"West Virginia, USA",,
+GA-190B3F6D,24,00:00.0,Local,GB,eeEurope,Greater London,51.49584983,-0.13946256,UK,"Greater London, UK",,
+PF-F95902BC,23,00:00.0,Local,DE,eeEurope,"Hesse
+(Hessen)",50.61108503,9.033462414,Germany,"Hesse
+(Hessen), Germany",,
+CR-6B885B5E,25,00:00.0,Local,US,America,Ohio,40.2253569,-82.6881395,USA,"Ohio, USA",,
+VI-43751A71,122,00:00.0,Super Store,GB,eeEurope,West Lothian,55.88518079,-3.573762124,UK,"West Lothian, UK",,
+FR-0FA7D921,31,00:00.0,Local,DE,eeEurope,"Saxony
+(Sachsen)",52.0089065,11.7003344,Germany,"Saxony
+(Sachsen), Germany",,
+RU-BFF916C5,128,00:00.0,Super Store,GB,eeEurope,West Lothian,55.88518079,-3.573762124,UK,"West Lothian, UK",,
+JE-3AF1D134,38,00:00.0,Local,US,America,West Virginia,38.34808012,-81.63219123,USA,"West Virginia, USA",,
+KI-967D1E81,20,00:00.0,Local,GB,eeEurope,Antrim,44.99930063,-85.14016877,UK,"Antrim, UK",,
+FA-6A7ABBAD,131,00:00.0,Super Store,US,America,Oregon,43.97327595,-120.6024303,USA,"Oregon, USA",,
+RE-4D07B5F2,33,00:00.0,Local,US,America,Iowa,41.57254675,-93.6104373,USA,"Iowa, USA",,
+MI-D57825AA,4,00:00.0,Mall Kiosk,US,America,Iowa,41.5910323,-93.6046655,USA,"Iowa, USA",,
+FA-0A1B14FB,73,00:00.0,Outlet,US,America,Tennessee,36.17168529,-86.78446417,USA,"Tennessee, USA",,
+PE-360EA944,37,00:00.0,Local,GB,eeEurope,Dorset,49.83908622,-2.033823913,UK,"Dorset, UK",,
+SI-C489938D,80,00:00.0,Outlet,US,America,Alabama,32.34805241,-86.26739724,USA,"Alabama, USA",,
+BE-7C142381,7,00:00.0,Mall Kiosk,GB,eeEurope,East Sussex,49.83908622,-2.033823913,UK,"East Sussex, UK",,
+VI-682A89FF,23,00:00.0,Local,GB,eeEurope,Renfrewshire,55.8775733,-4.3888761,UK,"Renfrewshire, UK",,
+GA-5957F561,6,00:00.0,Mall Kiosk,DE,eeEurope,Berlin,52.5170365,13.3888599,Germany,"Berlin, Germany",,
+PO-D4D326B4,23,00:00.0,Local,US,America,North Dakota,46.877229,-96.789821,USA,"North Dakota, USA",,
+CH-86DFF57D,27,00:00.0,Local,GB,eeEurope,Caernarvonshire,52.94192427,-4.299309633,UK,"Caernarvonshire, UK",,
+RE-FAF57EF7,4,00:00.0,Mall Kiosk,DE,eeEurope,"Hesse
+(Hessen)",50.61108503,9.033462414,Germany,"Hesse
+(Hessen), Germany",,
+BR-CACF7508,7,00:00.0,Mall Kiosk,US,America,Maine,50.11733635,8.644428361,USA,"Maine, USA",,
+TR-658557DD,20,00:00.0,Local,DE,eeEurope,"Hesse
+(Hessen)",50.6080651,9.0284647,Germany,"Hesse
+(Hessen), Germany",,
+CA-70469742,5,00:00.0,Mall Kiosk,US,America,Alabama,30.6943566,-88.0430541,USA,"Alabama, USA",,
+LU-439557A9,4,00:00.0,Mall Kiosk,US,America,West Virginia,38.65199121,-80.6088205,USA,"West Virginia, USA",,
+ST-6590521C,32,00:00.0,Local,US,America,Iowa,41.9216734,-93.3122705,USA,"Iowa, USA",,
+HI-AED3C6CD,29,00:00.0,Local,GB,eeEurope,Antrim,54.87171371,-6.202446602,UK,"Antrim, UK",,
+LY-120579E6,34,00:00.0,Local,GB,eeEurope,East Renfrewshire,55.8048318,-4.2946743,UK,"East Renfrewshire, UK",,
+WE-C5C34475,134,00:00.0,Super Store,GB,eeEurope,Devon,54.13569605,-2.572741444,UK,"Devon, UK",,
+HU-57B095A2,40,00:00.0,Local,US,America,Maine,42.3627717,-71.087257,USA,"Maine, USA",,
+SC-FFDD5A57,7,00:00.0,Mall Kiosk,US,America,Georgia,41.6809707,44.0287382,USA,"Georgia, USA",,
+IR-C8DAAB31,28,00:00.0,Local,US,America,Oregon,43.9792797,-120.737257,USA,"Oregon, USA",,
+BA-91C512D2,26,00:00.0,Local,DE,eeEurope,"Bavaria
+(Bayern)",48.96720619,11.41503,Germany,"Bavaria
+(Bayern), Germany",,
+JA-49A2D7F5,40,00:00.0,Local,US,America,Maryland,39.30105956,-76.61072474,USA,"Maryland, USA",,
+BR-0DCD7EE0,28,00:00.0,Local,US,America,Alaska,61.1497677,-149.1950635,USA,"Alaska, USA",,
+SC-4AE031F4,37,00:00.0,Local,US,eeAmerica,Washington,38.9214357,-77.0318692,USA,"Washington, USA",,
+GR-9049A708,124,00:00.0,Super Store,DE,eeEurope,"Hesse
+(Hessen)",48.68791937,7.051713943,Germany,"Hesse
+(Hessen), Germany",,
+TR-8CD56339,133,00:00.0,Super Store,US,America,Delaware,39.73509238,-75.52891287,USA,"Delaware, USA",,
+CO-D819CC5E,38,00:00.0,Local,US,America,Iowa,41.65589437,-91.53033292,USA,"Iowa, USA",,
+WE-B278D336,62,00:00.0,Super Store,US,America,New Jersey,40.735657,-74.1723667,USA,"New Jersey, USA",,
+BA-B4AED588,36,00:00.0,Local,DE,eeEurope,Mecklenburg-Vorpommern,54.0479245,13.0458642,Germany,"Mecklenburg-Vorpommern, Germany",,
