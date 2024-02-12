@@ -1,23 +1,23 @@
- **PowerBiProject**
+#**PowerBiProject**
 The project is for a Medium sized Retailer with innovating and High Business Inteligence that spand across different regions and accumulated large amount of sales from different sources over the years.
 In this project, I am using GitHub to track changes to my code and save them online in a GitHub repo.
-**Task1**
+##**Task1**
 I created an Azure Virtual Machine (VM) running Windows which i connected to it from my local machine, to the Azure Windows VM using the Remote Desktop Protocol (RDP). I then Download and install Power BI Desktop for Windows from the official Microsoft website.
 
-**Task 2**
+##**Task 2**
 I  did Relationship and association with the tables by imporitg the Orders_Powerbi table using the Import option in Power BI
 With Orders table as the  main fact table, which  contains information about each order, including the order and shipping dates, the customer, store and product IDs for associating with dimension tables, and the amount of each product ordered. Each order in this table consists of an order of a single product type, so there is only one product code per order. I cleaned the table by removing the security and confidential data such as Card Number
 Split Column feature to separate the [Order Date] and [Shipping Date] columns into two distinct columns each: one for the date and another for the time
 
-2.  Delete the column named [Card Number] to ensure data privacy
+###  Delete the column named [Card Number] to ensure data privacy
 
-3. Split Column feature to separate the [Order Date] and [Shipping Date] columns into two distinct columns each: one for the date and another for the time
+### Split Column feature to separate the [Order Date] and [Shipping Date] columns into two distinct columns each: one for the date and another for the time
 
-4. Filter out and remove any rows where the [Order Date] column has missing or null values to maintain data integrity
+### Filter out and remove any rows where the [Order Date] column has missing or null values to maintain data integrity
 
-5. Rename the columns in  dataset to align with Power BI naming conventions, ensuring consistency and clarity in the report
+### Rename the columns in  dataset to align with Power BI naming conventions, ensuring consistency and clarity in the report
 
-**Task 3**
+##**Task 3**
 The Products table contains information about each product sold by the company, including the product code, name, category, cost price, sale price, and weight.
 
 I Created   Stores Map Page by adding a New Map visual:
@@ -30,7 +30,7 @@ And Assign the Geography hierarchy to the Location field, and ProfitYTD to the B
 
 I Added a slicer above the map by  setting  the slicer field to Stores[Country], and in the Format section set the slicer style as Tile and the Selection settings to Multi-select with Ctrl/Cmd and Show "Select All" as an option in the slicer.
 
-** stores Drillthrough
+###** stores Drillthrough
 A table showing the top 5 products, with columns: Description, Profit YTD, Total Orders, Total Revenue
 A column chart showing Total Orders by product category for the store
 Gauges for Profit YTD against a profit target of 20% year-on-year growth vs. the same period in the previous year. The target should use the Target field, not the Maximum Value field, as the target will change as we move through the year.
@@ -38,24 +38,23 @@ A Card visual showing the currently selected store
 
 
 
-I created  some measures for the gauges as follows:
+###I created  some measures for the gauges as follows:
 
 Profit YTD and Revenue YTD: You should have already created this earlier in the project
 Profit Goal and Revenue Goal, which should be a 20% increase on the previous year's year-to-date profit or revenue at the current point in the year
 Add the visuals to the drillthrough page
 
 
-I Created Stores tooltip Page.so as to enable the users to be able to see each store's year-to-date profit performance against the profit target just by hovering the mouse over a store on the map.
+###I Created Stores tooltip Page.so as to enable the users to be able to see each store's year-to-date profit performance against the profit target just by hovering the mouse over a store on the map.
 
 
 
-I Download the Products.csv file  and then use Power BI's Get Data option to import the file into the project
-
+###I Download the Products.csv file  and then use Power BI's Get Data option to import the file into the project
 
 In the Data view, i Removed Duplicates function on the product_code column to ensure each product code is unique
 
 
-I cleaned and transform the data in the weight column as follows:-
+###I cleaned and transform the data in the weight column as follows:-
 
 In Power Query Editor, use the Column From Examples feature to generate two new columns from the weight column - one for the weight values and another for the units (e.g. kg, g, ml). 
 For the newly created units column, replace any blank entries with kg
@@ -64,7 +63,7 @@ For the values column, convert the data type to a decimal number
 From the Data view, create a new calculated column, such that if the unit in the units column is not kg, divide the corresponding value in the values column by 1000 to convert it to kilograms
 Return to the Power Query Editor and delete any columns that are no longer needed
 
-**Task 4**
+##**Task 4**
 
 From Power BI's Get Data option, i  connected to Azure Blob Storage and import the Stores table into the  project
 with the Stores table contains information about each store, including the store code, store type, country, region, and address.
@@ -76,25 +75,25 @@ Blob Storage credentials:
 
  I  Renamed the columns in the dataset to align with Power BI naming conventions, ensuring clarity and consistency in the report
 
-  **Task 5**.
+ ## **Task 5**.
   I Download the Customers.zip file from this link  and unzip it on the local machine. With the Get Data option in Power BI to import the Customers folder into the project. By Navigating to the folder, and then select Combine and Transform to import the data.
 
 I created a Full Name column by combining the [First Name] and [Last Name] columns.
 Delete any obviously unused columns (eg. index columns) and rename the remaining columns to align with Power BI naming conventions
 
-**Task 6.**
+##**Task 6.**
 I Updated the README file on the GitHub repository of this project with detailed information about the tasks accomplished in this milestone. For example you should describe the methods used to import the data, and the transformations you performed.
 
 I Also saved the latest version of the Power BI .pbix file and upload it to the Github repository.
 
-I created Data Table
+###I created Data Table
 Create a date table running from the start of the year containing the earliest date in the Orders['Order Date'] column to the end of the year containing the latest date in the Orders['Shipping Date'] column. You can use whichever DAX formula you prefer to create the table.
 
 Now use DAX formulas to add the following columns to the date table:
 Day of Week,Month Number (i.e. Jan = 1, Dec = 12 etc.),Month Name,Quarter,Year,Start of Year,Start of Quarter,Start of Month,Start of Week.
 
 
-**Star Schema Model**
+##**Star Schema Model**
 I Created relationships between the tables to form a star schema as  follows:
 
 Orders[product_code] to Products[product_code]
@@ -106,7 +105,7 @@ Orders[Shipping Date] to Date[date]
 i Ensure that the relationship between Orders[Order Date] and Date[date] is the active relationship, and that all relationships are one-to-many, with a single filter direction from the one side to the many side
 
 
-**Create a Measure Table:**
+##**Create a Measure Table:**
 I Created a separate table for measures  tokeep our data model organized and easy to navigate. I  created a new table using DAX, or you can create a new table in the data Model View with Power Query Editor.
 
 <ins> Create Key Measures:</ins>
@@ -185,7 +184,7 @@ I Arranged the gauges so that they are evenly spaced along the top of the report
 
 
 
-**Plan out the FilterState Cards** 
+##**Plan out the FilterState Cards** 
 To the left of the gauges,  i put some placeholder shapes for the cards which will show the filter state. Using a colour in keeping with the theme, i added two recatangle shapes, which together take up roughly the same space as one of the gauges.
 
 I added values to these that will eventually reflect the filter state of the slicers, by defining the following measures:
@@ -240,38 +239,38 @@ I assign the actions on our buttons to the bookmarks, then Open the Format pane 
 
 
 
-**Executive Summary Page**
+##**Executive Summary Page**
 
 Product Category bar chart and Top 10 Products table should not filter the card visuals or KPIs
 
 
-** Customer Detail Page**
+##** Customer Detail Page**
 
 - Top 20 Customers table should not filter any of the other visuals - Total Customers by Product Donut Chart should not affect the Customers line graph - Total Customers by Country donut chart should cross-filter Total Customers by Product donut Chart
 
-** Product Detail Page**
+##** Product Detail Page**
 
 - Orders vs. Profitability scatter graph should not affect any other visuals - Top 10 Products table should not affect any other visuals
 
 
- ** Finish Navigation Bar.**
+##** Finish Navigation Bar.**
   From the Edit Interactions view in the Format tab of the ribbon, set the following interactions:
 
 
-Executive Summary Page
+###Executive Summary Page
 
 Product Category bar chart and Top 10 Products table should not filter the card visuals or KPIs
 
 
-2. Customer Detail Page
+### Customer Detail Page
 
 - Top 20 Customers table should not filter any of the other visuals - Total Customers by Product Donut Chart should not affect the Customers line graph - Total Customers by Country donut chart should cross-filter Total Customers by Product donut Chart
 
-3. Product Detail Page
+###Product Detail Page
 
 - Orders vs. Profitability scatter graph should not affect any other visuals - Top 10 Products table should not affect any other visuals
 
-  **Connect to SQL Server**
+  ##**Connect to SQL Server**
   With Postgres database server hosted on Microsoft Azure. To connect to the server and run queries from VSCode, install the SQLTools extension.and, can connect to the server using the following details:
 
 HOST: powerbi-data-analytics-server.postgres.database.azure.com
