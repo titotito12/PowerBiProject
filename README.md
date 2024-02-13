@@ -1,3 +1,33 @@
+ # Table Of Contents
+  
+  ##  Aim
+  
+  ##  Tasks
+  
+ ##  Star Schema Model
+  
+ ##   Measure Tables
+  
+ ##  Data and Geography Hierarchies
+  
+ ##  Visuals
+  
+ ##  Executive Summary Page
+  
+ ##  Customer Detail Page
+  
+ ##  Product Detail Page
+  
+ ##  Finish Navigation Bar
+  
+##   Connect to SQL Server
+  
+  
+
+
+
+
+
 **PowerBiProject**
 
 The project is for a Medium sized Retailer with innovating and High Business Inteligence that spand across different regions and accumulated large amount of sales from different sources over the years.
@@ -34,7 +64,7 @@ And Assign the Geography hierarchy to the Location field, and ProfitYTD to the B
 
 I Added a slicer above the map by  setting  the slicer field to Stores[Country], and in the Format section set the slicer style as Tile and the Selection settings to Multi-select with Ctrl/Cmd and Show "Select All" as an option in the slicer.
 
-**Stores Drillthrough**
+### **Stores Drillthrough**
 
 - A table showing the top 5 products, with columns: Description, Profit YTD, Total Orders, Total Revenue-nA column chart showing Total Orders by product category for the store
 - Gauges for Profit YTD against a profit target of 20% year-on-year growth vs. the same period in the previous year. The target should use the Target field, not the Maximum Value field, as the target will change as we move through the year.
@@ -89,7 +119,7 @@ Now use DAX formulas to add the following columns to the date table:
 Day of Week,Month Number (i.e. Jan = 1, Dec = 12 etc.),Month Name,Quarter,Year,Start of Year,Start of Quarter,Start of Month,Start of Week.
 
 
-**Star Schema Model**
+### **Star Schema Model**
 
 - I Created relationships between the tables to form a star schema as  follows:
 
@@ -102,7 +132,7 @@ Day of Week,Month Number (i.e. Jan = 1, Dec = 12 etc.),Month Name,Quarter,Year,S
 I Ensure that the relationship between Orders[Order Date] and Date[date] is the active relationship, and that all relationships are one-to-many, with a single filter direction from the one side to the many side
 
 
-**Create a Measure Table:**
+### ** Measure Tables:**
 
 - I Created a separate table for measures  tokeep our data model organized and easy to navigate. I  created a new table using DAX, or you can create a new table in the data Model View with Power Query Editor.
 - I Created a measure called Total Orders that counts the number of orders in the Orders table.
@@ -118,7 +148,7 @@ Sums the result for all rows.
 - I Creatde a measure called Revenue YTD that calculates the total revenue for the current year.
 - I Named the new blank table Measures Table and then click Load.
 
-** Data and Geography Hierarchies:**
+### ** Data and Geography Hierarchies:**
 
 I created two hierarchies in this task: one for dates, to facilitate drill-down in the line charts, and one for geography, to allow you to filter our data by region, country and province/state.
 
@@ -145,7 +175,7 @@ World Region
 Country
 Country Region
 
-**Visuals**
+### **Visuals**
 
 - I Add a Donut Chart visual showing the total customers for each country, using the Users[Country] column to filter the [Total Customers] measure.
 - I Add a Column Chart visual showing the number of customers who purchased each product category, using the Products[Category] column to filter the [Total Customers] measure
@@ -182,7 +212,7 @@ Transparency : 15%
 
 
 
-**Plan out the FilterState Cards** 
+### **Plan out the FilterState Cards** 
 
 To the left of the gauges,  i put some placeholder shapes for the cards which will show the filter state. Using a colour in keeping with the theme, i added two recatangle shapes, which together take up roughly the same space as one of the gauges.
 
@@ -205,7 +235,7 @@ Total Customers
 Total Orders
 Profit per Order.
 
-**Scatter Graph.**
+### **Scatter Graph.**
 
 I Created a new calculated column called [Profit per Item] in the Products table, using a DAX formula to work out the profit per item and configure it as follows:
 Values should be Products[Description]
@@ -214,7 +244,7 @@ Y-Axis should be Orders[Total Quantity]
 Legend should be Products[Category]
 
 
-**Slicer Toolbar**
+### **Slicer Toolbar**
 
 I used Power BI's bookmarks feature to create a pop-out toolbar which can be accessed from the navigation bar on the left-hand side of our report.by dwnloading this  collection of custom icons. 
 
@@ -238,38 +268,38 @@ I assign the actions on our buttons to the bookmarks, then Open the Format pane 
 
 
 
-**Executive Summary Page**
+### **Executive Summary Page**
 
 Product Category bar chart and Top 10 Products table should not filter the card visuals or KPIs
 
 
-**Customer Detail Page**
+### **Customer Detail Page**
 
 - Top 20 Customers table should not filter any of the other visuals - Total Customers by Product Donut Chart should not affect the Customers line graph - Total Customers by Country donut chart should cross-filter Total Customers by Product donut Chart
 
-**Product Detail Page**
+### **Product Detail Page**
 
 - Orders vs. Profitability scatter graph should not affect any other visuals - Top 10 Products table should not affect any other visuals
 
 
-**Finish Navigation Bar.**
+### **Finish Navigation Bar.**
   From the Edit Interactions view in the Format tab of the ribbon, set the following interactions:
 
 
-Executive Summary Page
+#### Executive Summary Page
 
 Product Category bar chart and Top 10 Products table should not filter the card visuals or KPIs
 
 
- Customer Detail Page
+#### Customer Detail Page
 
 - Top 20 Customers table should not filter any of the other visuals - Total Customers by Product Donut Chart should not affect the Customers line graph - Total Customers by Country donut chart should cross-filter Total Customers by Product donut Chart
 
-Product Detail Page
+#### Product Detail Page
 
 - Orders vs. Profitability scatter graph should not affect any other visuals - Top 10 Products table should not affect any other visuals
 
-  **Connect to SQL Server**
+ ### **Connect to SQL Server**
   With Postgres database server hosted on Microsoft Azure. To connect to the server and run queries from VSCode, install the SQLTools extension.and, can connect to the server using the following details:
 
 HOST: powerbi-data-analytics-server.postgres.database.azure.com
