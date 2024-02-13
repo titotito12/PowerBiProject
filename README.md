@@ -306,13 +306,8 @@ Product Category bar chart and Top 10 Products table should not filter the card 
 - Orders vs. Profitability scatter graph should not affect any other visuals - Top 10 Products table should not affect any other visuals
 
  ### **Connect to SQL Server**
-  With Postgres database server hosted on Microsoft Azure. To connect to the server and run queries from VSCode, install the SQLTools extension.and, can connect to the server using the following details:
+  With Postgres database server hosted on Microsoft Azure. __ connect to the server and run queries from VSCode,
 
-HOST: powerbi-data-analytics-server.postgres.database.azure.com
-PORT: 5432
-DATABASE: orders-db
-USER: maya
-PASSWORD: AiCore127!
 
 I Printed a list of the tables in the database and save the result to a csv file for the reference.
 
